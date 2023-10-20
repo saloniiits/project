@@ -1,0 +1,18 @@
+{
+  "name": "applications",
+  "version": "1.0.0",
+  "description": "",
+  "main": "org_contract.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.2",
+    "axios-cookiejar-support": "^4.0.6",
+    "express": "^4.18.2",
+    "fabric-ca-client": "^2.2.4",
+    "fabric-network": "^2.2.4"
+  }
+}
